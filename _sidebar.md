@@ -1,3 +1,12 @@
-* [Home](/)
+* [Home](home.md)
 * Package
   * [快速开始](package/guide.md)
+* 开发教程
+  * [快速开始](dev/guide.md)
+  * [前端开发](dev/ui.md)
+* 应用配置
+  * [和AFA通讯](apply/clients.md)
+* 运维
+  * [运维](devops/devops.md)
+  * [服务器信息](devops/server.md)
+  * [nexus私服搭建](devops/nexus.md)
