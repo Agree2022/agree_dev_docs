@@ -6,6 +6,7 @@
   * [前端开发](dev/ui.md)
 * 应用配置
   * [和AFA通讯](apply/clients.md)
+  * [服务发现](apply/discovery.md)
 * 运维
   * [运维](devops/devops.md)
   * [服务器信息](devops/server.md)
