@@ -113,7 +113,7 @@
 #### 前端package项目
 1、执行npm install
 2、修改src/api/source.js中的ip为部署的后台服务器地址
-3、执行npm run serve即可
+3、执行npm run serve即可 
 
 
 #### 资源
