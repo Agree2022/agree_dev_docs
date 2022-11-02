@@ -11,3 +11,12 @@
   * [运维](devops/devops.md)
   * [服务器信息](devops/server.md)
   * [nexus私服搭建](devops/nexus.md)
+* 任务列表
+  * [BUG](tasklist/bug.md)
+* 管理端操作文档
+  * [信息说明](docs/info.md)
+---
+* 微服务架构
+  * [架构介绍](micro/introduce.md)
+  * [开发介绍](micro/dev.md)
+  * [开发部署](micro/deploy.md)
