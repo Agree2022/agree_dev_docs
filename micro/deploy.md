@@ -47,7 +47,7 @@ curl -X get http://ip:7009
 // 获取到一个404页面即成功（尚未部署前端资源）
 ```
 
-> #### 6. 应用代码资源上传和部署
+> #### 6. 应用代码资源上传和部署(资源可以自己启动项目后打包，也可以从下面资源列表中下载)
 ##### 1）上传pacakge.zip到/home/pom/resource/ui后执行解压（如果没有该目录请自行创建）
 ##### 2）重载nginx
 + cd /home/pom/nginx
@@ -77,3 +77,7 @@ __以下操作目录：/home/pom/resource/pom__
 | 平台服务 | nohup java -Xmx378m -jar pom-system-service-2.7.0.jar --spring.profiles.active=pro & | 同上方案 | 存在POM-SYSTEM-SERVICE服务 | 
 | 业务服务 | nohup java -Xmx128m -jar **pom-cups-2.7.0.jar** --spring.profiles.active=pro & | jar包名根据各市场需要 | 存在POM-CUPS服务 |
 | 网关 | nohup java -Xmx128m -jar pom-gateway-2.7.0.jar --spring.profiles.active=pro & | 同上方案 | 存在POM-GATEWAY服务 |
+
+
+> #### 9. 资源
++ [后端nginx+redis+jar](链接: https://pan.baidu.com/s/101aAF3dlH5SOBBXv7b1Q6Q 提取码: 1234)

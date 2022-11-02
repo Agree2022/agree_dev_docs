@@ -109,8 +109,18 @@
 + 前端@v2-lib/vue.spa.plugin依赖，请从本页资源下载列表中下载，解压后复制到项目的node_modules后，重新执行npm install
 + 后端asdk，请从本页资源下载列表中下载，解压后放置到maven本地仓库目录下，更新idea的maven索引即可
 
+## 前端项目启动
+#### 前端package项目
+1、执行npm install
+2、修改src/api/source.js中的ip为部署的后台服务器地址
+3、执行npm run serve即可
+
 
 #### 资源
 + [@v2-lib/vue.spa.plugin](链接: https://pan.baidu.com/s/1IgzOpnWxr-ElpZZ1Mhyr_A 提取码: 1234)
 + [本地maven仓库](链接: https://pan.baidu.com/s/1vvssDlTndfvH-2xjnoVc7Q 提取码: 1234)
 + [单纯asdk仓库](链接: https://pan.baidu.com/s/1RwoYlWcYbT6ciRCLKMKfYg 提取码: 1234)
++ [文档说明](链接: https://pan.baidu.com/s/101aAF3dlH5SOBBXv7b1Q6Q 提取码: 1234)
+
+
+
